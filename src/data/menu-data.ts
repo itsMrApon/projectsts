@@ -10,7 +10,7 @@ const menu_data:IMenuDT[] = [
       { title: 'Digital Agency', link: '/digital-agency', img: '/assets/img/menu/white-version/home-4.jpg' },
       { title: 'Tech Vanguard', link: '/sudotechserve', img: '/assets/img/menu/white-version/home-3.jpg' },
       { title: 'Manufacture', link: '/manufacture', img: '/assets/img/menu/white-version/home-1.jpg' },
-      { title: 'Get It Made', link: '/getitmade', img: '/assets/img/menu/white-version/home-2.jpg' },
+      { title: 'Procurement', link: '/procurement', img: '/assets/img/menu/white-version/home-2.jpg' },
       { title: 'EDC Store', link: '/store', img: '/assets/img/menu/white-version/home-6.jpg' }, 
       { title: 'Vehicle Of Hype', link: '/switchtoswag', img: '/assets/img/menu/white-version/home-5.jpg' },
       { title: 'INTERACTIVE LINKS', link: '/interactive-links', img: '/assets/img/menu/white-version/home-9.jpg' },
